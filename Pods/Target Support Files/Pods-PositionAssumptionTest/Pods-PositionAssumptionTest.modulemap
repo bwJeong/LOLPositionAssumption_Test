@@ -1,0 +1,6 @@
+framework module Pods_PositionAssumptionTest {
+  umbrella header "Pods-PositionAssumptionTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
